@@ -19,14 +19,14 @@ This script is designed to check the validity of login credentials for CPANEL-WH
 
 ## Installation
 
+1. Clone the repository or download the script.
+
+   ```bash
+   git clone https://github.com/yourusername/repository-name.git
+   cd repository-name
 
 ## Usage
 Prepare your list of CPANEL-WHM credentials in a text file (list.txt). The file should have one line per account, with each line in the following format:
 
 url|username|password
 
-1. Clone the repository or download the script.
-
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
